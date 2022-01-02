@@ -1,4 +1,5 @@
-# openWeatherApi## Purpose:
+# openWeatherApi
+## Purpose:
     Openweathermap.org has a server-side api that allows you to get information about the weather 
 
 ## Built With:
